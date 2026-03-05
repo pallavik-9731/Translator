@@ -1,9 +1,9 @@
 step 1: create a repository in git `translator`
-step 2: clone the repository in local machine
-         -`git clone <url>`
+step 2: clone the repository in your local machine
+    - `git clone <url>`
 step 3: create a virtual environment
-         -`python -m venv venv`
+    - `py -m venv env`
 step 4: activate the virtual environment
-         -`\env\Scripts\activate`
+    - `env\Scripts\activate`
 step 5: install django
-         -`pip install django`
+    - `pip install django`
